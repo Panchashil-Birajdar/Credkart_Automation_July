@@ -48,6 +48,7 @@ def GetDataForLogin(request):
     return request.param
 
 
+# pytest -v --html=HTMLReports/myreport.html --alluredir="D:\Credence\Assignments\My Assignments\Final Revision\CredKart_Pytest_Project\AllureReports" -n=2
 
 
 
